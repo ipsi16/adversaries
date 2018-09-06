@@ -11,3 +11,4 @@ This document contains the weekly updates on the adversarial data generation pro
 * Shortlist the list of techniques for implementation 
 * Set up the necessary configuration files for usage of the framework
 * Basic implementation one of the rudimentary attacks (FGSM) in pytorch and identifying further requirements based on the implementation
+* Set up models to be attacked on (Basic CNN models for MNIST recognition)
