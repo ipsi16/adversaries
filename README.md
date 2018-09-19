@@ -14,6 +14,11 @@ This document contains the weekly updates on the adversarial data generation pro
 # Week 09/13 to 09/20
 * Testing and debugging the attack
 * Implement framework for adversarial training and report accuracy for test and adversarial data
-* Implement other forms of attack like JSMA, black-box attack
+* Implement other forms of attack like JSMA
 * Explore current benchmarks for these attacks and verfiy whether these attacks conform to them 
 In case the metrics vary by large amounts , investigate the cause for the difference
+
+# Week 09/21 to 09/28
+* Formalise jupyter notebook experiments to python modules for framework
+* Implement black-box attack
+* Gather prerequisites for Amazon oracle attack
