@@ -22,3 +22,9 @@ In case the metrics vary by large amounts , investigate the cause for the differ
 * Formalise jupyter notebook experiments to python modules for framework
 * Implement black-box attack
 * Gather prerequisites for Amazon oracle attack
+
+# Week 09/29 to 11/05
+* Trained attacks developed in Pytorch weren't able to fool the models as much as the Cleverhans tensorflow models. 
+So investigation of the root cause must be executed
+* Create test cases for the developed utilities
+* 
