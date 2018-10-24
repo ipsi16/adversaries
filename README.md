@@ -18,7 +18,7 @@ This document contains the weekly updates on the adversarial data generation pro
 * Explore current benchmarks for these attacks and verfiy whether these attacks conform to them 
 In case the metrics vary by large amounts , investigate the cause for the difference
 
-# Week 09/21 to 09/28
+# Week 09/22 to 09/29
 * Formalise jupyter notebook experiments to python modules for framework
 * Implement black-box attack
 * Gather prerequisites for Amazon oracle attack
@@ -28,3 +28,10 @@ In case the metrics vary by large amounts , investigate the cause for the differ
 So investigation of the root cause must be executed
 * Create test cases for the developed utilities
 * 
+
+# Week 10/14 to 10/20
+* Mid term presentation
+
+# Week 10/21 to 10/27
+* Black box attack implementation
+* Jupyter notebook experiment to demo black box attack
