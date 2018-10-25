@@ -35,3 +35,7 @@ So investigation of the root cause must be executed
 # Week 10/21 to 10/27
 * Black box attack implementation
 * Jupyter notebook experiment to demo black box attack
+* Configure and run python linters for code compliance
+
+# Week 10/27 to 11/3
+* Explore CI configurations for open source code contribution protocols
