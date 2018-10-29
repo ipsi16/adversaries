@@ -41,3 +41,4 @@ So investigation of the root cause must be executed
 * Configure and run python linters for code compliance
 * Test cases for basic framework elements
 * Explore CI configurations for open source code contribution protocols
+* correct JSMA to adhere to the attack function arguments contract (dataset,x,target)
