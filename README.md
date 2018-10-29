@@ -42,3 +42,4 @@ So investigation of the root cause must be executed
 * Test cases for basic framework elements
 * Explore CI configurations for open source code contribution protocols
 * correct JSMA to adhere to the attack function arguments contract (dataset,x,target)
+* Change blackbox's default attack mechanism from FGSM to generic one for FGSM,JSMA
