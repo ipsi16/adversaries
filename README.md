@@ -41,5 +41,11 @@ So investigation of the root cause must be executed
 * Configure and run python linters for code compliance
 * Test cases for basic framework elements
 * Explore CI configurations for open source code contribution protocols
-* correct JSMA to adhere to the attack function arguments contract (dataset,x,target)
+
+# Week 11/4 to 11/11 
+* Reconfigure attack function definition for all attacks to a common interface definition
+* Correct JSMA to adhere to the attack function arguments contract (dataset,x,target)
 * Change blackbox's default attack mechanism from FGSM to generic one for FGSM,JSMA
+
+# Week 11/11 to 11/18
+* Implement evaluation methods listed in https://openreview.net/forum?id=H1g0piA9tQ
