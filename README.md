@@ -49,3 +49,5 @@ So investigation of the root cause must be executed
 
 # Week 11/11 to 11/18
 * Implement evaluation methods listed in https://openreview.net/forum?id=H1g0piA9tQ
+* Implement at least one defense mechanism
+* Test on CIFAR
